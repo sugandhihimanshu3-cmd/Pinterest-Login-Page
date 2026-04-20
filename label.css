@@ -1,0 +1,20 @@
+.body{
+    border-radius: 5px;
+    border-color: black;
+    background-color: #ffffff;
+    color: #1d1d1f;
+    line-height: 1.5;
+}
+.hh {
+    border: solid 5px black;
+    border-radius: 15px ;
+    width: 35%;
+    height:auto;
+
+}
+.him{
+    border: solid 5px black;
+    border-radius: 15px ;
+    width: 35%;
+    height:auto;
+}
